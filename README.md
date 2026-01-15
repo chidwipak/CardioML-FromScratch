@@ -63,7 +63,7 @@ The system analyzes patient health data including blood pressure, cholesterol le
 
 ```bash
 # Clone the repository
-git clone https://github.com/ChidwipakKuppani/CardioML-FromScratch.git
+git clone https://github.com/chidwipak/CardioML-FromScratch.git
 cd CardioML-FromScratch
 
 # Install dependencies

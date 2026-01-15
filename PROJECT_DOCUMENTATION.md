@@ -4,7 +4,7 @@
 > **Institution**: IIIT Sri City  
 > **Course**: Cyber Security Academic Project  
 > **Development Period**: November 2025  
-> **Repository**: [CardioML-FromScratch](https://github.com/ChidwipakKuppani/CardioML-FromScratch)
+> **Repository**: [CardioML-FromScratch](https://github.com/chidwipak/CardioML-FromScratch)
 
 ---
 
