@@ -17,7 +17,7 @@
 
 > [!NOTE]
 > **📋 About This Repository**  
-> This project was developed in **November 2025** as part of my **Cyber Security academic coursework** at IIIT Sri City. The development was done on a remote college SSH system, which is why it's being pushed to GitHub now (January 2026) as I prepare my portfolio for internship applications.
+> This project was developed in **November 2025** as part of my **Machine Learning (ML) academic coursework** at IIIT Sri City. The development was done on a remote college SSH system, which is why it's being pushed to GitHub now (January 2026) as I prepare my portfolio for internship applications.
 > 
 > All my academic and research projects were stored on the college's remote server infrastructure. Now, as I'm applying for internships, I'm systematically organizing and publishing my work to showcase my skills and experience.
 
@@ -388,7 +388,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-**IIIT Sri City - Cyber Security Academic Project (November 2025)**
+**IIIT Sri City - Machine Learning (ML) Academic Project (November 2025)**
 
 | Name | Roll Number | Role |
 |------|-------------|------|

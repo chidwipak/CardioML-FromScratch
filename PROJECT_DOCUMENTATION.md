@@ -2,7 +2,7 @@
 
 > **Author**: Chidwipak Kuppani (S20230010131)  
 > **Institution**: IIIT Sri City  
-> **Course**: Cyber Security Academic Project  
+> **Course**: Machine Learning (ML) Academic Project  
 > **Development Period**: November 2025  
 > **Repository**: [CardioML-FromScratch](https://github.com/chidwipak/CardioML-FromScratch)
 
